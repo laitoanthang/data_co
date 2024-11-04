@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL INCREMENTAL LOAD", "ETL INCREMENTAL LOAD\ETL INCREMENTAL LOAD.dtproj", "{29CC802B-D578-434A-B53C-85D66E9F1829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CC802B-D578-434A-B53C-85D66E9F1829}.Development|Default.ActiveCfg = Development
+		{29CC802B-D578-434A-B53C-85D66E9F1829}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84B870D-ADDC-44E9-81E0-8ED3643D5CF6}
+	EndGlobalSection
+EndGlobal

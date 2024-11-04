@@ -1,0 +1,4 @@
+USE DB_staging
+
+EXEC sp_iload_create_dim_territory;
+EXEC sp_iload_create_dim_store;

@@ -1,0 +1,6 @@
+USE DB_staging
+
+EXEC sp_iload_create_dim_order_status;
+EXEC sp_iload_create_dim_shipping_mode;
+EXEC sp_iload_create_dim_delivery_status;
+EXEC sp_iload_create_dim_transaction;

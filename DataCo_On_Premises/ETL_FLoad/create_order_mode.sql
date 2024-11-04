@@ -1,0 +1,7 @@
+USE dataco_staging
+
+EXEC sp_create_dim_order_status;
+EXEC sp_create_dim_delivery_risk;
+EXEC sp_create_dim_shipping_mode;
+EXEC sp_create_dim_delivery_status;
+EXEC sp_create_dim_transaction;

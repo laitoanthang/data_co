@@ -1,0 +1,5 @@
+USE DB_staging
+EXEC sp_iload_create_department;
+EXEC sp_iload_create_category;
+EXEC sp_iload_create_dim_product;
+EXEC sp_iload_create_dim_customer;
