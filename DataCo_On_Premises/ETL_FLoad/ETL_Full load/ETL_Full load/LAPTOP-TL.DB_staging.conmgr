@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-TL DB_staging"
+  DTS:DTSID="{0C061A36-2CBE-487F-B885-5652039776B2}"
+  DTS:CreationName="ADO.NET:Microsoft.Data.SqlClient.SqlConnection, Microsoft.Data.SqlClient, Version=5.0.0.0, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=&quot;localhost, 1434&quot;;User ID=sa;Initial Catalog=DB_staging;Persist Security Info=True;Encrypt=True;Trust Server Certificate=True;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOftFG6yz2EWQmtEmq2SikwAAAAACAAAAAAAQZgAAAAEAACAAAABLfg/wU+UFnPfJfv528KXvBj8RR5egY2FpGE2U2BeK4gAAAAAOgAAAAAIAACAAAAAfyB5fKMK8tkHgkCBXbzGdCkCWZ+RPvjEz0bJeZkMqQ4AAAAC/cvkFcSiQlhiFI4IaYpSt1XCbpsck4jZmtE/Fx6/wkSRzxdktnjjioM1OwsCMzYozIwZKamTrF1oZYAmneoeXBSvxzh8/xwjYhijMSuQG4GqezGDAjt5bPY8Qi1NThrYS/qUVBbdUz1gNRlkdQktT1tcq3I2aeNbatuKHo4XJakAAAACi3JcNAhSO3GrbEkYTMHpY3XDw1BeCjNuDB8zxylr1OWBWbe84q+MuoBkrcfHgKIxSsq3tBshHoVmaEb9PFfIp</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

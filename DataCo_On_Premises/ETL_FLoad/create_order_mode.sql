@@ -1,4 +1,4 @@
-USE dataco_staging
+USE DB_staging
 
 EXEC sp_create_dim_order_status;
 EXEC sp_create_dim_delivery_risk;
